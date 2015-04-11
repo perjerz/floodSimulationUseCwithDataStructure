@@ -1,0 +1,5 @@
+6|Yom river|Chaiang Mai|100|10|1
+7|Yom river|Lamphun|200|2|0
+8|Yom river|Tak|365472000|91368000|0
+9|Yom river|Kamphaeng Phet|348624000|145260000|0
+10|Yom river|Nakhon Sawan|700|60|0

@@ -1,0 +1,5 @@
+1|Ping river|Chaiang Mai|200|10|1
+2|Ping river|Lamphun|100|2|0
+3|Ping river|Tak|100000|500|0
+4|Ping river|Kamphaeng Phet|100000|5000|0
+5|Ping river|Nakhon Sawan|700|60|0
